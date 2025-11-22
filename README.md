@@ -1,12 +1,6 @@
 # Repositório de Apresentações | Portfólio Visual
 #### Marcos Beck 
 ---
-# Índice 
-1. [Organização](https://github.com/Marcos-Beck/Apresentacoes/edit/main/README.md#organiza%C3%A7%C3%A3o-)
-2. [Objetivo](https://github.com/Marcos-Beck/Apresentacoes/edit/main/README.md#objetivo-)
-3. [Habilidades Demonstradas](https://github.com/Marcos-Beck/Apresentacoes/edit/main/README.md#habilidades-demonstradas-)
-4. [O que você vai encontrar](https://github.com/Marcos-Beck/Apresentacoes/edit/main/README.md#o-que-voc%C3%AA-vai-encontrar-)
-
 ## Organização 📁
 Cada apresentação possui sua própria pasta contendo todos ou alguns desses itens:
 
